@@ -4,3 +4,5 @@ VAMLab1/
 
 # Librerias necesarias
 requirements.txt
+
+*.json
